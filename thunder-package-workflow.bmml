@@ -1079,7 +1079,7 @@
         <text>Progress%20indicator%20for%20complete%20vs.%20incomplete%20items%3F</text>
       </controlProperties>
     </control>
-    <control controlID="371" controlTypeID="com.balsamiq.mockups::StickyNote" x="2418" y="693" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="147" locked="false" isInGroup="-1">
+    <control controlID="371" controlTypeID="com.balsamiq.mockups::StickyNote" x="2511" y="700" w="-1" h="-1" measuredW="109" measuredH="123" zOrder="147" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Indication%20that%20this%20product%20is%20part%20of%20a%20package...</text>
       </controlProperties>
